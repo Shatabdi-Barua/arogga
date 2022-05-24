@@ -1,0 +1,7 @@
+2022-04-28 10:04:03,054 DEBUG    POST http://localhost:44793/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["--headless", "--no-sandbox", "--disable-dev-shm-usage"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["--headless", "--no-sandbox", "--disable-dev-shm-usage"]}}}
+2022-04-28 10:04:03,060 DEBUG    Starting new HTTP connection (1): localhost:44793
+2022-04-28 10:04:03,424 DEBUG    http://localhost:44793 "POST /session HTTP/1.1" 200 756
+2022-04-28 10:04:03,424 DEBUG    Finished Request
+2022-04-28 10:04:03,424 DEBUG    POST http://localhost:44793/session/e3dbacb78400d11a0f969660a97f325c/window/rect {"x": null, "y": null, "width": 1920, "height": 1080}
+2022-04-28 10:04:03,528 DEBUG    http://localhost:44793 "POST /session/e3dbacb78400d11a0f969660a97f325c/window/rect HTTP/1.1" 200 50
+2022-04-28 10:04:03,529 DEBUG    Finished Request
